@@ -1,0 +1,62 @@
+# Teacher-only / private files
+Code_solution_teacher_only/
+handout_teacher_only/
+notebooks_solution_teacher_only/
+
+# Materials not yet released to this student
+student_handouts_md_not_upload/
+
+# Local helper scripts
+tools/
+
+# Notion / Markdown import temporary folders
+student_handouts_md/_zip_originals/
+student_handouts_md/_restore_tmp/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local test / old files
+/1.hs
+/lesson_1.ipynb
+
+# Temporary backup files
+*.bak
+
+
+# C-only repository: student-visible C resources only.
+# Keep local teacher-only content, archives and working files out of GitHub.
+/notebooks_solution_teacher_only/
+/notebooks_solution_teacher_only/
+/student_handouts_md_not_upload/
+/Code_solution/
+/handout_myself/
+/solutions/
+/teacher_notes/
+/tools/
+/Structure.md
+**/_zip_originals/
+**/_restore_tmp/
+**/_c_cpp_sync_backup*/
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+
+# Prevent accidentally tracking non-C teaching content in this repo.
+/student_handouts_md/C++/
+/student_handouts_md/CPP/
+/student_handouts_md/Python/
+*.cpp
+*.cc
+*.cxx
+*.hpp
+*.hxx
+*.hh
