@@ -1,0 +1,24 @@
+
+{
+  "record_date": "2026-11-14",
+  "goal": {
+    "exam": "APCS",
+    "target_level": "初級（C）",
+    "target_year_month": "2027-01",
+    "exact_exam_date": null
+  },
+  "teaching_sessions": [
+    {
+      "date": "2026-11-14",
+      "platform": "本機",
+      "planned_questions": "",
+      "completed_questions": "",
+      "pending_questions": "",
+      "student_issue": "對於 array 迴圈 不太熟悉",
+      "teaching_note": "加強理解/apcs考試環境說明",
+      "homework": "Q1, Q2, Q3",
+      "homework_status": "pending",
+      "next_class": "while 迴圈加強"
+    }
+  ]
+}
