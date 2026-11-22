@@ -19,6 +19,20 @@
       "homework": "Q1, Q2, Q3",
       "homework_status": "pending",
       "next_class": "while 迴圈加強"
+    },
+    
+    {
+      "date": "2026-11-21",
+      "platform": "本機",
+      "planned_questions": "C語言_for_while_陣列_50題_學生練習版.ipynb（共50題）",
+      "completed_questions": "Q1 ~ Q6",
+      "pending_questions": "Q10、Q11、Q12、Q13（指定課後作業）；其餘題目進度待確認",
+      "student_issue": "持續加強 C 語言 for、while 迴圈及一維陣列的使用，透過練習熟悉迴圈控制與陣列操作。",
+      "teaching_note": "本堂課以 C 語言 for、while 迴圈及陣列為主要練習內容，使用本機 Jupyter Notebook 的50題練習教材。指定 Q10～Q13 作為課後作業，下一堂課預計進入 ZeroJudge 題目練習。",
+      "homework": "Q10, Q11, Q12, Q13",
+      "homework_status": "pending",
+      "next_class": "ZeroJudge：C 語言基礎題目實作，延續 for、while 迴圈與陣列的應用"
     }
+
   ]
 }
